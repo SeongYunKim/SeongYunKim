@@ -19,7 +19,7 @@
 
 - [나샷](https://web.nashot.io/home.html) Developer (Flutter, Typescript)
 
-- [SW Mastero](https://swmaestro.org) 11th
+- [SW Maestro](https://swmaestro.org) 11th
 
 ### 📫 How to reach me:
 
