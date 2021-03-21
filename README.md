@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=SeongYunKim&color=417EEC" alt="Profile Views Counter"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeongYunKim&hide=stars&count_private=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeongYunKim&hide=stars&count_private=true&show_icons=true&theme=dracula">
 </p>
 
 -  💻  Junior developer interested in backend.
@@ -17,9 +17,9 @@
 
 - Backend Developer for Commerce-as-a-Service
 
-- [나샷](https://web.nashot.io/home.html) Developer (Flutter, Typescript)
+- [나샷](https://play.google.com/store/apps/details?id=io.zero100) Developer (Flutter, Typescript)
 
-- [SW Maestro](https://swmaestro.org) 11th
+- SW Maestro 11th
 
 ### 📫 How to reach me:
 
