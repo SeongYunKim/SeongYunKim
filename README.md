@@ -1,7 +1,8 @@
 ### I'm Seongyun Kim. Welcome to my Github!🤗
-
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SeongYunKim&color=417EEC" alt="Profile Views Counter"/>
+-->
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SeongYunKim&hide=stars&count_private=true&show_icons=true&theme=dracula">
@@ -18,8 +19,6 @@
 - Backend Developer for Commerce-as-a-Service
 
 - [나샷](https://play.google.com/store/apps/details?id=io.zero100) Developer (Flutter, Typescript)
-
-- SW Maestro 11th
 
 ### 📫 How to reach me:
 
